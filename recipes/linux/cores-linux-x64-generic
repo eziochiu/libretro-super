@@ -40,7 +40,7 @@ duckstation libretro-duckstation https://github.com/libretro/duckstation.git mas
 ecwolf libretro-ecwolf https://github.com/libretro/ecwolf.git master YES GENERIC Makefile src/libretro
 easyrpg libretro-easyrpg https://github.com/EasyRPG/Player.git master YES CMAKE Makefile build
 emuscv libretro-emuscv https://gitlab.com/MaaaX-EmuSCV/libretro-emuscv.git master YES GENERIC Makefile.libretro .
-fbneo libretro-fbneo https://github.com/libretro/FBNeo.git master YES GENERIC Makefile src/burner/libretro USE_X64_DRC=1
+fbneo libretro-fbneo https://github.com/eziochiu/FBNeo.git master YES GENERIC Makefile src/burner/libretro USE_X64_DRC=1
 fbalpha2012 libretro-fbalpha2012 https://github.com/libretro/fbalpha2012.git master YES GENERIC makefile.libretro svn-current/trunk
 fbalpha2012_cps1 libretro-fbalpha2012_cps1 https://github.com/libretro/fbalpha2012_cps1.git master YES GENERIC makefile.libretro .
 fbalpha2012_cps2 libretro-fbalpha2012_cps2 https://github.com/libretro/fbalpha2012_cps2.git master YES GENERIC makefile.libretro .
