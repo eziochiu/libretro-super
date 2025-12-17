@@ -388,6 +388,7 @@ include_core_fbneo() {
 libretro_fbneo_name="FinalBurn Neo"
 libretro_fbneo_git_url="https://github.com/eziochiu/FBNeo.git"
 libretro_fbneo_build_subdir="src/burner/libretro"
+libretro_fbneo_post_fetch_cmd="git checkout v1.0.0.02"
 
 include_core_fbalpha() {
 	register_module core "fbalpha" -psp1
